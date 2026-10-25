@@ -1,0 +1,8 @@
+out/
+sources.txt
+test-sources.txt
+data/*.properties
+data/*.tmp
+*.class
+.idea/
+.vscode/
